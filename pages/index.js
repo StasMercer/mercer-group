@@ -7,6 +7,7 @@ export default function Home() {
       <Head>
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="facebook-domain-verification" content="n9nenu43pxxbs0l0x0f27i3iisenqz" />
       </Head>
 
       <main className={styles.main}>
